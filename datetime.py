@@ -1,6 +1,6 @@
 import datetime
 
-# print(datetime.datetime.now())
+datetime.datetime.now()
 
 # print(datetime.datetime.date()))
 
