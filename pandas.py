@@ -37,3 +37,8 @@ df3.Price.max()
 df3.Price.min()
 
 
+# Reading files using pandas
+df=pandas.read_csv("File\/Path.csv")
+df
+
+# Jupyter notebook can be used for web scraping
